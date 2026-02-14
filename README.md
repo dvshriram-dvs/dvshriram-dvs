@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m D V Shriram👋
 
-<!--
-**dvshriram-dvs/dvshriram-dvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring AI professional passionate about machine learning, data science, and intelligent systems.  
+Currently, I’m building strong foundations in IT and expanding into artificial intelligence to prepare for a career at the intersection of technology and innovation.
 
-Here are some ideas to get you started:
+## 🤖 Skills & Interests
+- Python programming and data analysis
+- Machine learning fundamentals (classification, regression, clustering)
+- Neural networks and deep learning basics
+- Linux and Windows CLI proficiency
+- Networking, and system troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- AI mini‑projects exploring supervised and unsupervised learning
+- Experiments with generative AI for career planning and productivity
+
+## 🎯 Goals
+- Advance my knowledge in AI and ML frameworks (TensorFlow, PyTorch)
+- Contribute to open‑source AI projects
+- Build a career in artificial intelligence and cybersecurity
+
+📫 Let’s connect on [LinkedIn](www.linkedin.com/in/dv-shriram-venkatesan-b2259a363) or explore my repositories here on GitHub!
